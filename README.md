@@ -35,14 +35,14 @@ password-manager/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/password-manager.git
-   cd password-manager
+   git clone https://github.com/Dark5301/Password-manager.git
+   cd Password-manager
    ```
 
 2. **Create and activate a virtual environment**
 
    ```bash
-   python -m venv venv
+   python3 -m venv venv
    source venv/bin/activate      # On Windows: venv\Scripts\activate
    ```
 
@@ -57,7 +57,7 @@ password-manager/
 1. **Run the main application**
 
    ```bash
-   python main.py
+   python3 main.py
    ```
 
 2. **Set your master password**
