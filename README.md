@@ -142,7 +142,3 @@ If you find bugs or have feature suggestions:
 1. Fork the repository
 2. Create a new branch (`feature/new-module`)
 3. Submit a pull request with a clear description
-
----
-
-Would you like me to tailor this README for **GitHub presentation** (with badges, emojis, and better formatting) or for a **professional portfolio/resume submission** (more formal and minimalistic)?
